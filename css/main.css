@@ -1,0 +1,49 @@
+body{
+
+  padding: 10px;
+  background:#15182d url(/images/bg_repeat.gif) center top repeat-y;
+  font:11px Arial, Helvetica, sans-serif;
+
+}
+
+.navbar-nav li{
+  margin: auto 50px;
+}
+
+.dad{
+
+  background: rgb(82, 82, 97);
+  height: 1000px;
+  width: 100%;
+
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.son{
+
+  width: 50%;
+  height: 200px;
+  border: 1px solid white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.cardIndex{
+
+  background-color: ;
+
+}
+
+.navBarTranspa{
+
+  opacity: 0.6;
+
+}
+
